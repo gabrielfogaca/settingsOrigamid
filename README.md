@@ -1,7 +1,10 @@
 # settingsOrigamid
 Settings e extenções usadas no curso de React na plataforma ORIGAMID
+CTRL+T
 
->settings.json
+">settings.json"
+
+
 {
     "editor.fontFamily": "IBM Plex Mono, Monaco, Courier New, monospace",
     "editor.fontSize": 15,
