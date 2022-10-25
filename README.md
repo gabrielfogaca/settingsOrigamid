@@ -52,5 +52,6 @@ CTRL+T
   }
   
   extenções:
-  Live Server, Color Highlight, Prettier, ES7 React/Redux/GraphQL snippets, Origamid Next Theme
+  Live Server, Color Highlight, Prettier, ES7 React/Redux/GraphQL snippets, Origamid Next
+  
  
